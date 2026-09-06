@@ -29,9 +29,18 @@ I'm passionate about programming and continuously improving my skills by buildin
 
 ### 🌱 Currently Learning
 
+**Python** — I have previously studied Python through different courses and projects. I'm currently strengthening my Python skills through Harvard's CS50 course and continuing to improve my programming and problem-solving abilities.
+
 **HTML & CSS** — Learning the fundamentals of web development and building web page layouts.
 
 **JavaScript** — Currently learning JavaScript to add interactivity and functionality to websites.
+
+![Python](https://img.shields.io/badge/Python-Improving-blue?style=for-the-badge\&logo=python\&logoColor=white)
+![CS50](https://img.shields.io/badge/CS50-Python-red?style=for-the-badge\&logo=harvard\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-Learning-orange?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Learning-blue?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)
+
 
 ![HTML](https://img.shields.io/badge/HTML-Learning-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-Learning-blue?style=for-the-badge&logo=css3&logoColor=white)
