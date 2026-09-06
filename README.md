@@ -19,23 +19,37 @@ I'm passionate about programming and continuously improving my skills by buildin
 
 ## 🛠️ Technologies & Tools
 
-### Programming Languages
+### 🐍 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge\&logo=python\&logoColor=white)
+**Python** — My main programming language. I'm using Python to practice programming fundamentals, problem-solving, and build projects.
 
-### Currently Learning
-
-![HTML](https://img.shields.io/badge/HTML-Learning-orange?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Learning-blue?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-Tools-orange?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Tools-black?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-Editor-blue?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python&logoColor=white)
 
 ---
+
+### 🌱 Currently Learning
+
+**HTML & CSS** — Learning the fundamentals of web development and building web page layouts.
+
+**JavaScript** — Currently learning JavaScript to add interactivity and functionality to websites.
+
+![HTML](https://img.shields.io/badge/HTML-Learning-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Learning-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🔧 Tools
+
+**Git** — Version control and managing my projects.
+
+**GitHub** — Hosting my repositories and sharing my projects.
+
+**VS Code** — My main code editor for programming and development.
+
+![Git](https://img.shields.io/badge/Git-Tools-orange?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Tools-black?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Editor-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 🚀 Featured Projects
 
