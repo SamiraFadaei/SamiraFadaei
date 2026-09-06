@@ -41,11 +41,6 @@ I'm passionate about programming and continuously improving my skills by buildin
 ![CSS](https://img.shields.io/badge/CSS-Learning-blue?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-
-![HTML](https://img.shields.io/badge/HTML-Learning-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Learning-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-
 ---
 
 ### 🔧 Tools
