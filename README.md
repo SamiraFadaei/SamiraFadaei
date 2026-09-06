@@ -80,3 +80,8 @@ A collection of programming assignments and exercises completed during my learni
 ├── 💻 Build more real-world projects
 ├── 📚 Learn professional Git & GitHub workflows
 └── 🚀 Grow as a Software Developer
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn:https://www.linkedin.com/in/samirafadaei311/
+* 🐙 GitHub:SamiraFadaei](https://github.com/SamiraFadaei
