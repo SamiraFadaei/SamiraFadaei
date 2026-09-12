@@ -81,7 +81,7 @@ A project for managing and working with grades and student-related data.
 
 ---
 
-### 💻 [My code](https://github.com/SamiraFadaei/code))
+### 💻 [My code](https://github.com/SamiraFadaei/code)
 
 A collection of programming assignments and exercises completed during my learning journey.
 
